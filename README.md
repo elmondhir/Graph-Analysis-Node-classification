@@ -31,7 +31,7 @@ The goal of this homework assignment is to assess my ability to deal with real d
 - **Classification with semi supervised learning** : (is_malicious IP_validated)
     - Label propagation
 
-- **Hyperparameter tuning** : (is_malicious IP_validated)
+- **Hyperparameter tuning** : 
     - Using Optuna framework
 
 
