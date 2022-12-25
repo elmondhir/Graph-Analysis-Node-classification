@@ -35,4 +35,4 @@ The goal of this homework assignment is to assess the ability to deal with real 
     - Using Optuna framework
 
 
-### Author : **CHAALAL Mohamed*.
+### Author : **CHAALAL Mohamed Elmondhir*.
