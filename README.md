@@ -3,7 +3,7 @@ CrowdSec is an open-source and lightweight software that allows you to detect pe
 Take a look at the [official documentation](https://doc.crowdsec.net/docs/intro) of the CrowdSec software to understand context of the collected data. 
 # Introduction
 
-The goal of this homework assignment is to assess my ability to deal with real data used in cybersecurity, my approach to the problem, and the basic concepts in data science (EDA, visualization, model training, ... ).
+The goal of this homework assignment is to assess the ability to deal with real data used in cybersecurity, approaches to the problem, and basic concepts in data science (EDA, visualization, model training, ... ).
 
 ## **Summary** : 
 
