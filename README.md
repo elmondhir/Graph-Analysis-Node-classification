@@ -25,7 +25,7 @@ The goal of this homework assignment is to assess the ability to deal with real 
 
 
 
-- **Attack type classifier** :
+- **Attack type classification** :
     - Implementation of GCN (graph convolutional network) for node classification (Attack type)
 
 - **Classification with semi supervised learning** : (is_malicious IP_validated)
