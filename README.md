@@ -17,7 +17,7 @@ The goal of this homework assignment is to assess the ability to deal with real 
         * What are the names of the top 10 AS hosting malicious IPs which perform the highest number of attack? 
         * What are the 10 watchers IDs which suffered from the highest number of attacks ?
         * Compare the distribution of the average `activity_in_days` and `age_in_days` of the watchers who reported each malicious IPs. 
-        
+         
 - **Graph** : Build a  graph $G = (V,E)$ where a node $v$ is a malicious IP and an edge $e$ links two malicious IPs if they were reported by the same watcher. Hence the edges are weighted by the number of times 2 malicious IPs were reported by the same watchers.
     * Visualization: 
         * Plot a heatmap of the adjacency matrix of the top 40 most connected nodes
